@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasonWesleyAndrews
 - 👀 I’m interested in product design, mountineering, dogs, etc.
-- 🌱 I’m currently learning design and front-end development
+- 🌱 I’m currently working as a UX designer and like to mess around with front-end development
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me jasonwesleyandrews@gmail.com
 
